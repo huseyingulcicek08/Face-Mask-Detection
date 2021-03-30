@@ -1,5 +1,6 @@
 # Face-Mask-Detection
-[Report.pdf](https://github.com/huseyingulcicek08/Face-Mask-Detection/files/6227355/Report.pdf)
+[Report.docx](https://github.com/huseyingulcicek08/Face-Mask-Detection/files/6227363/Report.docx)
+
 
 
 ![maskeli](https://user-images.githubusercontent.com/33606081/112515944-cccd6600-8da7-11eb-9ea8-69ff2530e4ab.PNG)
